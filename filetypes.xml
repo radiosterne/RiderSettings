@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="references" type="PLAIN_TEXT" />
-      <mapping ext="transform" type="XML" />
-    </extensionMap>
-  </component>
-</application>
