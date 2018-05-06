@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="BuildSelection">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="CollapseRegionRecursively" />
+</keymap>
