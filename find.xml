@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'CTL.Persistence'" />
     <option name="defaultScopeName" value="Project 'CTL.Persistence'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'CTL.Persistence'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
