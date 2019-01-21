@@ -7,18 +7,10 @@
       <option name="HEX_PREFIX" value="" />
       <option name="NUM_POSTFIXES" value="" />
     </options>
-    <keywords ignore_case="true">
-      <keyword name="add;attach;arg;cmd;copy;entrypoint;env;export;expose;from;import;include;label;maintainer;mount;onbuild;push;require;run;tag;user;var;volume;workdir" />
-    </keywords>
-    <keywords2>
-      <keyword name="add-apt-repository;apt-key;apt-add-repository;addgroup;yum;adduser;apt-get;cd;mv;chmod;chown;cp;curl;dpkg;dpkg-divert;echo;ln;mkdir;printf;rm;rsync;sed;tar;wget;apk;unzip;nano;bash;sh;ash;pip" />
-    </keywords2>
-    <keywords3>
-      <keyword name="install;update;upgrade;remove;autoremove;purge;source;build-dep;dist-upgrade;dselect-upgrade;clean;autoclean;check;changelog;download;del;add;uninstall;" />
-    </keywords3>
-    <keywords4>
-      <keyword name="-a;-b;-c;-d;-e;-f;-g;-h;-i;-j;-k;-l;-m;-n;-o;-p;-q;-r;-s;-t;-u;-v;-w;-x;-y;-z;+a;+b;+c;+d;+e;+f;+g;+h;+i;+j;+k;+l;+m;+n;+o;+p;+q;+r;+s;+t;+u;+v;+w;+x;+y;+z;+a;+b;+c;+d;+e;+f;+g;+h;+i;+j;+k;+l;+m;+n;+o;+p;+q;+r;+s;+t;+u;+v;+w;+x;+y;+z;-a;-b;-c;-d;-e;-f;-g;-h;-i;-j;-k;-l;-m;-n;-o;-p;-q;-r;-s;-t;-u;-v;-w;-x;-y;-z;--disabled-password;--force-yes;--gecos;--ingroup;--quiet;-fr;-rf;--no-cache;--no-network;--purge;--no-cache-dir;--proxy" />
-    </keywords4>
+    <keywords keywords="ADD;ARG;AS;ATTACH;CMD;COPY;ENTRYPOINT;ENV;EXPORT;EXPOSE;FROM;IMPORT;INCLUDE;LABEL;MAINTAINER;MOUNT;ONBUILD;PUSH;REQUIRE;RUN;TAG;USER;VAR;VOLUME;WORKDIR" ignore_case="false" />
+    <keywords2 keywords="add-apt-repository;addgroup;adduser;apk;apt-add-repository;apt-get;apt-key;ash;bash;cd;chmod;chown;cp;curl;dotnet;dpkg;dpkg-divert;echo;ln;mkdir;mv;nano;pip;printf;rm;rsync;sed;sh;tar;unzip;wget;yarn;yum" />
+    <keywords3 keywords="add;autoclean;autoremove;build-dep;changelog;check;clean;del;dist-upgrade;download;dselect-upgrade;purge;remove;source;uninstall;update;upgrade" />
+    <keywords4 keywords="+a;+b;+c;+d;+e;+f;+g;+h;+i;+j;+k;+l;+m;+n;+o;+p;+q;+r;+s;+t;+u;+v;+w;+x;+y;+z;--disabled-password;--force-yes;--gecos;--ingroup;--no-cache;--no-cache-dir;--no-network;--proxy;--purge;--quiet;-a;-b;-c;-d;-e;-f;-fr;-g;-h;-i;-j;-k;-l;-m;-n;-o;-p;-q;-r;-rf;-s;-t;-u;-v;-w;-x;-y;-z" />
   </highlighting>
   <extensionMap>
     <mapping pattern="dockerfile" />
