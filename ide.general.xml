@@ -23,7 +23,9 @@
     <entry key="tabs.alphabetical" value="true" />
     <entry key="bigger.font.in.project.view" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
   </component>
 </application>
