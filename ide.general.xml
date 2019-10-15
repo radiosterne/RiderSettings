@@ -26,6 +26,8 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="ide.win.file.chooser.native" value="true" />
-    <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
