@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="File '...\UnifiedPermit.Persistence\SeedFromBaseSportsman.sql'" />
+    <option name="defaultScopeName" value="File '...\UnifiedPermit.Persistence\SeedFromBaseSportsman.sql'" />
     <option name="localRegularExpressions" value="true" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="File '...\UnifiedPermit.Persistence\SeedFromBaseSportsman.sql'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
