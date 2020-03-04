@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'GIS.Web'" />
-    <option name="defaultScopeName" value="Project 'GIS.Web'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'GIS.Web'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,7 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.resx</mask>
-    <mask>*.cs</mask>
     <mask>*.css</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
