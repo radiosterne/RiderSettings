@@ -17,7 +17,7 @@
     <mask>*.mxml</mask>
     <mask>*.resx</mask>
     <mask>*.css</mask>
-    <mask>*.proto</mask>
     <mask>*.cs</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
