@@ -10,7 +10,6 @@
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
-    <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="java.completion.argument.hints.internal" value="false" />
@@ -40,5 +39,8 @@
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
