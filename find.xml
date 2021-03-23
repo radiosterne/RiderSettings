@@ -15,6 +15,7 @@
     <mask>*.css</mask>
     <mask>*.proto</mask>
     <mask>*.cs</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts</mask>
   </component>
 </application>
