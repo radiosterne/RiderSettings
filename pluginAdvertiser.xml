@@ -2681,6 +2681,11 @@
                       <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
                     </value>
                   </entry>
+                  <entry key="SpaceRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" />
+                    </value>
+                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
